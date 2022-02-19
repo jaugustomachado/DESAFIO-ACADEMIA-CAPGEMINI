@@ -1,6 +1,8 @@
 # DESAFIO-ACADEMIA-CAPGEMINI
 Desafio para o processo seletivo da academia capgemini
 
+Tecnologia utilizada: JAVA
+
 Candidato: José Augusto Machado Omena
 
 QUESTÃO 1:
